@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ENT_EMAIL">Enter Email</string>
+    <string name="ENT_PASSWORD">Enter Password</string>
+    <string name="LOGIN">Login</string>
+    <string name="NEW">Create New User</string>
+</resources>

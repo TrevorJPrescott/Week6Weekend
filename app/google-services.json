@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668214267457",
+    "firebase_url": "https://fir-christmastutorial.firebaseio.com",
+    "project_id": "fir-christmastutorial",
+    "storage_bucket": "fir-christmastutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668214267457:android:add6b2d2ef18a252",
+        "android_client_info": {
+          "package_name": "com.trevorpc.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668214267457-lfnmjtne8sbr0qojjpkr4qrsdt0bugd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trevorpc.myapplication",
+            "certificate_hash": "2d89fcf752b79c89cb4eb3d9d2fc708e3395bc61"
+          }
+        },
+        {
+          "client_id": "668214267457-ecjkrbss22ocb2ivqsca2t04itegm5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5BGFtpmho_ciWI-khH10UQagc8zJZXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668214267457-ecjkrbss22ocb2ivqsca2t04itegm5cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
